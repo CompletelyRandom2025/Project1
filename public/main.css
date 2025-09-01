@@ -10,9 +10,12 @@ button{
 table{
     border-style:solid;
     border-collapse:collapse;
+    width: 512px;
+    margin:auto;
 }
 th, td{
     border-style:dashed;
+    text-align:center;
 }
 table, th, td{
     font-size:96px;
